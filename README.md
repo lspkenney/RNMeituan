@@ -1,14 +1,26 @@
 ## RNMeituan ##
 
-**RNMeituan** 基于React Native 0.44.2版,其中用到的API接口及模拟数据参考自https://github.com/huanxsd/MeiTuan,在此非常感谢原作者。
+**RNMeituan** 基于React Native 0.44.2版,其中用到的API接口及模拟数据参考自https://github.com/huanxsd/MeiTuan 在此非常感谢原作者。
 
 本项目属于个人学习Demo,仿美团客户端，历时一周左右的闲暇时间开发完成，目前只实现了一级页面。导航组件使用的是官方推荐的react-navigation，另外在更多模块中实现了一个二级页面【Realm数据库Demo】,后续考虑实现更多页面。
 
+### 项目亮点 ###
+
+
+1、采用组件化开发方式。
+
+2、列表采用最新FlatList组件，支持下拉刷新、上拉加载更多。
+
+3、导航采用官方推荐的react-navigation。
+
+4、所有组件均采用的跨平台方式（条件所限IOS没测试过）。
+
+5、项目使用了Realm跨平台、轻量级数据库。
+
+6、移动平台代码复用率95%（瞎掰的！！！）
+
 ### Screenshsot ###
-![](https://github.com/lspkenney/RNMeituan/blob/master/screenshot/20170527_111615.png)
-![](https://github.com/lspkenney/RNMeituan/blob/master/screenshot/20170527_111622.jpg)
-![](https://github.com/lspkenney/RNMeituan/blob/master/screenshot/20170527_111626.jpg)
-![](https://github.com/lspkenney/RNMeituan/blob/master/screenshot/20170527_111636.jpg)
+![](https://github.com/lspkenney/RNMeituan/blob/master/screenshot/screenshot.gif)
 
 ### Setup ###
 
@@ -26,20 +38,6 @@
 
 6、react-native run-android
 
-### 项目亮点 ###
-
-
-1、采用组件化开发方式。
-
-2、列表采用最新FlatList组件，支持下拉刷新、上拉加载更多。
-
-3、导航采用官方推荐的react-navigation。
-
-4、所有组件均采用的跨平台方式（由于没有IOS环境所以没测试）。
-
-5、项目使用了Realm跨平台、轻量级数据库。
-
-6、移动平台代码复用率95%（瞎掰的！！！）
 
 ### 项目用到的开源组件库 ###
 

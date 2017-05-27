@@ -19,7 +19,7 @@
 
 6、移动平台代码复用率95%（瞎掰的！！！）
 
-### Screenshsot ###
+### Screenshsot[gif动图] ###
 ![](https://github.com/lspkenney/RNMeituan/blob/master/screenshot/screenshot.gif)
 
 ### Setup ###

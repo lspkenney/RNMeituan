@@ -2,7 +2,7 @@
 
 **RNMeituan** 基于React Native 0.44.2版,其中用到的API接口及模拟数据参考自https://github.com/huanxsd/MeiTuan,在此非常感谢原作者。
 
-本项目属于个人学习Demo,仿美团客户端，历时一周左右（主要是利用下班后闲暇时间完成，按正常工作日的量大概4天左右），目前只实现了一级页面。导航组件使用的是官方推荐的react-navigation，另外在更多模块中实现了一个二级页面【Realm数据库Demo】
+本项目属于个人学习Demo,仿美团客户端，历时一周左右的闲暇时间开发完成，目前只实现了一级页面。导航组件使用的是官方推荐的react-navigation，另外在更多模块中实现了一个二级页面【Realm数据库Demo】,后续考虑实现更多页面。
 
 ### Screenshsot ###
 ![](https://github.com/lspkenney/RNMeituan/blob/master/screenshot/20170527_111615.png)
@@ -45,11 +45,9 @@
 
 1、react-native-scrollable-tab-view  版本0.6.6
 
-2、react-native-swipeout  版本2.1.1
+2、react-navigation  版本1.0.0-beta.11
 
-3、react-navigation  版本1.0.0-beta.11
-
-4、 realm  版本1.3.1
+3、 realm  版本1.3.1
 
 ### 关于作者 ###
 

@@ -2,7 +2,7 @@
 
 **RNMeituan** 基于React Native 0.44.2版,其中用到的API接口及模拟数据参考自https://github.com/huanxsd/MeiTuan,在此非常感谢原作者。
 
-本项目属于个人学习Demo，历时一周左右，目前只实现了一级页面。导航组件使用的是官方推荐的react-navigation，另外在更多模块中实现了一个二级页面【Realm数据库Demo】
+本项目属于个人学习Demo,仿美团客户端，历时一周左右（主要是利用下班后闲暇时间完成，按正常工作日的量大概4天左右），目前只实现了一级页面。导航组件使用的是官方推荐的react-navigation，另外在更多模块中实现了一个二级页面【Realm数据库Demo】
 
 ### Screenshsot ###
 ![](https://github.com/lspkenney/RNMeituan/blob/master/screenshot/20170527_111615.png)

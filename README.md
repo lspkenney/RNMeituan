@@ -52,4 +52,4 @@
 
 ### 关于作者 ###
 
-14年毕业后一直从事Android开发，现已具备Android原生开发、React Native开发、微信小程序开发等技能,有任何建议或者意见请联系spkenney@163.com
+14年毕业后一直从事Android开发，现已具备Android原生开发、React Native开发、微信小程序开发等技能,有任何建议或者意见请联系我，谢谢！
